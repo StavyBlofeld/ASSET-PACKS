@@ -1,0 +1,9 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Worm_Nasagifs_GIF_by_NASA_2_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 7
+Max level: 30
+Weight: 25
